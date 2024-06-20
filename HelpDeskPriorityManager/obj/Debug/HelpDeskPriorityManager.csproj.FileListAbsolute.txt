@@ -1,0 +1,9 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\obj\Debug\HelpDeskPriorityManager.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\bin\Debug\HelpDeskPriorityManager.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\bin\Debug\HelpDeskPriorityManager.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\bin\Debug\HelpDeskPriorityManager.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\obj\Debug\HelpDeskPriorityManager.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\obj\Debug\HelpDeskPriorityManager.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\obj\Debug\HelpDeskPriorityManager.MainForm.resources
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\obj\Debug\HelpDeskPriorityManager.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\SharpDevelop Projects\HelpDeskPriorityManager\HelpDeskPriorityManager\obj\Debug\HelpDeskPriorityManager.Start.resources
